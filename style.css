@@ -1,0 +1,26 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.nav-btn{
+    color: #279add;
+    border: 2px solid #289BDE;
+}
+.carousel-image{
+    filter: brightness(50%);
+}
+.carouse-description{
+    width: 70%;
+    top: 20%;
+    left: 15%;
+}
+.carousel-title{
+    font-size: 4vw;
+}
+.carousel-text{
+    font-size: 1.5vw;
+}
+.btn-style{
+    background-color: #279add;
+    color: white;
+    font-size: 1.75vw;
+}
