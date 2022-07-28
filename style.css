@@ -28,6 +28,9 @@
 .price{
     color: #279add;
 }
+.bg-explore{
+    background-color: #F4FAFD;
+}
 .review{
     margin: 130px 0;
 }
