@@ -8,11 +8,6 @@
 .carousel-image{
     filter: brightness(50%);
 }
-.carouse-description{
-    width: 70%;
-    top: 20%;
-    left: 15%;
-}
 .carousel-title{
     font-size: 4vw;
 }
@@ -22,5 +17,17 @@
 .btn-style{
     background-color: #279add;
     color: white;
-    font-size: 1.75vw;
+}
+.course{
+    margin-top: 100px;
+}
+.couse-overview{
+    width: 70%;
+    margin-bottom: 50px;
+}
+.price{
+    color: #279add;
+}
+.review{
+    margin: 100px 0;
 }
