@@ -38,11 +38,11 @@
     overflow: hidden;
     text-overflow: ellipsis;
     display: -webkit-box;
-    -webkit-line-clamp: 2;
+    -webkit-line-clamp: 3;
     -webkit-box-orient: vertical;
 }
 .explore-title{
-    font-size: 2vw;
+    font-size: 3vw;
 }
 .register-section{
     padding: 80px 100px;
