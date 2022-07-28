@@ -46,6 +46,20 @@
     margin-top: 100px;
     margin-bottom: 50px;
 }
-.margin{
-    margin: 100px;
+.star{
+    color: #fcde7d;
+}
+.prev-btn, .next-btn{
+    position: relative;
+    background-color: #289BDE;
+    padding: 0 15px;
+}
+.prev-btn{
+    left: -96px;
+}
+.next-btn{
+    right: -96px;
+}
+.accordion-button:focus{
+    background-color: #289bde1a;
 }
