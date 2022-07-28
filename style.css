@@ -18,16 +18,34 @@
     background-color: #279add;
     color: white;
 }
-.course{
+.course,.feedback{
     margin-top: 100px;
 }
 .couse-overview{
     width: 70%;
     margin-bottom: 50px;
 }
+.text-color{
+    color: #777777;
+}
 .price{
     color: #279add;
 }
 .review{
     margin: 100px 0;
+}
+.register-section{
+    margin: 100px 0;
+    padding: 80px 100px;
+    background-color: #289BDE;
+}
+.register-btn{
+    color:#279add;
+}
+.student{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+.margin{
+    margin: 100px;
 }
