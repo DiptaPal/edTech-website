@@ -20,7 +20,7 @@
     color: white;
 }
 .course,.feedback{
-    margin-top: 100px;
+    margin-top: 130px;
 }
 .text-color{
     color: #777777;
@@ -29,10 +29,9 @@
     color: #279add;
 }
 .review{
-    margin: 100px 0;
+    margin: 130px 0;
 }
 .register-section{
-    margin: 100px 0;
     padding: 80px 100px;
     background-color: #289BDE;
 }
@@ -40,7 +39,7 @@
     color:#279add;
 }
 .student{
-    margin-top: 100px;
+    margin-top: 130px;
     margin-bottom: 50px;
 }
 .star{
